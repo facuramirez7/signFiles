@@ -1,5 +1,5 @@
 # signFiles
-Script to sign PDF with an image of a signature
+Script to sign any PDF
 
 
 First, install pdftk and wkhtmltopdf (Debian 10)
