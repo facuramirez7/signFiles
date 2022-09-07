@@ -18,3 +18,5 @@ For example
 ```bash
 ./firma_documento.sh doc.pdf sign.pdf dest.pdf 4-5
 ```
+
+(change path for your computer files in the script)
